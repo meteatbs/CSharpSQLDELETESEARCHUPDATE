@@ -1,0 +1,9 @@
+C:\Users\metea\source\repos\Contact App\Contact App\bin\Debug\Contact App.exe.config
+C:\Users\metea\source\repos\Contact App\Contact App\bin\Debug\Contact App.exe
+C:\Users\metea\source\repos\Contact App\Contact App\bin\Debug\Contact App.pdb
+C:\Users\metea\source\repos\Contact App\Contact App\obj\Debug\Contact App.csprojAssemblyReference.cache
+C:\Users\metea\source\repos\Contact App\Contact App\obj\Debug\Contact_App.Form1.resources
+C:\Users\metea\source\repos\Contact App\Contact App\obj\Debug\Contact_App.Properties.Resources.resources
+C:\Users\metea\source\repos\Contact App\Contact App\obj\Debug\Contact App.csproj.GenerateResource.cache
+C:\Users\metea\source\repos\Contact App\Contact App\obj\Debug\Contact App.exe
+C:\Users\metea\source\repos\Contact App\Contact App\obj\Debug\Contact App.pdb
